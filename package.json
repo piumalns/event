@@ -8,7 +8,7 @@
     "start": "node app"
   },
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "body-parser": "*",
     "cors": "*",
     "express": "^4.17.1",
